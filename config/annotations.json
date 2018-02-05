@@ -1,23 +1,308 @@
 [
   {
     "id": 1,
-    "url": "http://localhost:8080/",
+    "url": "file:///Users/Kasia/Desktop/study-materials/ellaone/index.html",
     "ranges": [
       {
-        "start": "/div[1]/p[10]",
-        "startOffset": 143,
-        "end": "/div[1]/p[10]",
-        "endOffset": 150
+        "start": "/div[1]/p[2]",
+        "startOffset": 48,
+        "end": "/div[1]/p[2]",
+        "endOffset": 86
       }
     ],
-    "quote": "Testowy",
-    "create_date": "2018-01-27T01:23:00+0100",
+    "quote": "Powszechną Deklarację Praw Seksualnych",
     "priority": "NORMAL",
-    "comment": "Example annotation",
-    "reference_link": "ABC",
-    "reference_link_title": "tytuł",
-    "objection_count": 15,
-    "useful_count": 100,
-    "does_belong_to_user": true
+    "comment": "Link do treści Deklaracji.",
+    "reference_link": "https://pl.wikipedia.org/wiki/Powszechna_Deklaracja_Praw_Seksualnych",
+    "reference_link_title": "Wikipedia",
+    "create_date": "2018-02-05T21:33:10.043Z"
+  },
+  {
+    "id": 2,
+    "url": "file:///Users/Kasia/Desktop/study-materials/ellaone/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[3]",
+        "startOffset": 292,
+        "end": "/div[1]/p[3]",
+        "endOffset": 323
+      }
+    ],
+    "quote": "dr n. med. Aleksandra Krasowska",
+    "priority": "NORMAL",
+    "comment": "Profil osoby na Linkedinie",
+    "reference_link": "https://www.linkedin.com/in/aleksandra-krasowska-682448a5/?ppe=1",
+    "reference_link_title": "Linkedin",
+    "create_date": "2018-02-05T21:33:10.043Z"
+  },
+  {
+    "id": 3,
+    "url": "file:///Users/Kasia/Desktop/study-materials/ellaone/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[3]",
+        "startOffset": 855,
+        "end": "/div[1]/p[3]",
+        "endOffset": 872
+      }
+    ],
+    "quote": "klauzulę sumienia",
+    "priority": "NORMAL",
+    "comment": "W polskim prawie klauzula sumienia wynika z art. 39 Ustawy o zawodzie lekarza i lekarza dentysty z 5 grudnia 1996. ",
+    "reference_link": "http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970280152",
+    "reference_link_title": "Link do ustawy",
+    "create_date": "2018-02-05T12:33:10.043Z"
+  },
+  {
+    "id": 4,
+    "url": "file:///Users/Kasia/Desktop/study-materials/ellaone/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[4]",
+        "startOffset": 2,
+        "end": "/div[1]/p[4]",
+        "endOffset": 64
+      }
+    ],
+    "quote": "W Polsce na klauzulę sumienia powołuje się ok. 3 tys. lekarzy.",
+    "priority": "NORMAL",
+    "comment": "Lekarze powołujący się na klauzulę sumienia podpisują Deklarację Wiary. Najaktualniejsza lista lekarzy, którzy podpisali Deklarację Wiary zawiera 3860 podpisów.",
+    "reference_link": "https://web.archive.org/web/20161021181100/http://www.deklaracja-wiary.pl/img/lista_pod_.pdf",
+    "reference_link_title": "Lista lekarzy",
+    "create_date": "2018-02-05T23:33:10.043Z"
+  },
+  {
+    "id": 5,
+    "url": "file:///Users/Kasia/Desktop/study-materials/ellaone/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[4]",
+        "startOffset": 69,
+        "end": "/div[1]/p[4]",
+        "endOffset": 128
+      }
+    ],
+    "quote": "bez wątpienia nie będą wypisywać recept na tabletkę EllaOne",
+    "priority": "WARNING",
+    "comment": "Lekarze powołujący się na klauzulę sumienia mogą, ale nie muszą korzystać z tego prawa w przypadku wypisywania recept na tabletkę EllaOne. \"Lekarz może powstrzymać się od wykonywania świadczeń medycznych niezgodnych z jego sumieniem, z zastrzeżeniem art. 30, z tym że ma obowiązek wskazać realne możliwości uzyskania tego świadczenia u innego lekarza lub w podmiocie leczniczym oraz uzasadnić i odnotować ten fakt w dokumentacji medycznej. \"",
+    "reference_link": "https://pl.wikipedia.org/wiki/Klauzula_sumienia",
+    "reference_link_title": "Wikipedia",
+    "create_date": "2018-02-05T23:33:10.043Z"
+  },
+  {
+    "id": 6,
+    "url": "file:///Users/Kasia/Desktop/study-materials/ellaone/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[4]",
+        "startOffset": 357,
+        "end": "/div[1]/p[4]",
+        "endOffset": 418
+      }
+    ],
+    "quote": "on by nie przepisał tej tabletki nawet zgwałconej dziewczynie",
+    "priority": "NORMAL",
+    "comment": "Minister w rozmowie w Radiu Zet powiedział, że w przypadku prośby pacjentki o wypisanie recepty na antykoncepcję awaryjną powołałby się na klauzulę sumienia. Doprecyzował, że okoliczności zajścia w ciążę nie mają dla niego znaczenia: \"Nie przepisałbym jej nawet w przypadku gwałtu\". ",
+    "reference_link": "http://wiadomosci.radiozet.pl/Polska/Powolalbym-sie-na-klauzule-sumienia.-Konstanty-Radziwill-w-Radiu-ZET",
+    "reference_link_title": "Link do wypowiedzi ministra",
+    "create_date": "2018-02-05T12:33:10.043Z"
+  },
+  {
+    "id": 0,
+    "url": "file:///Users/Kasia/Desktop/study-materials/matinschulz/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[1]/b[1]",
+        "startOffset": 0,
+        "end": "/div[1]/p[1]/b[1]",
+        "endOffset": 130
+      }
+    ],
+    "quote": "Wygląda na to, że kwestia przekształcenia Unii Europejskiej w federalne superpaństwo stanie się w najbliższych latach priorytetem.",
+    "priority": "ALERT",
+    "comment": "Nic nie wskazuje na to, żeby stworzenie federalnej Europy miało się stać priorytetem UE lub Niemiec w najbliższych latach. Martin Schulz nie pełni żadnego unijnego stanowiska, a jego partia nie ma realnej władzy - uzyskała w wyborach w Niemczech 20,5% poparcia. Co więcej, przedstawiciele partii rządzącej Niemiec odnoszą się krytycznie do propozycji Schulza: \"Musimy wzmocnić Europę, co do tego nie może być żadnych wątpliwości. Będziemy o tym rozmawiać. W propozycji (Schulza) dostrzegam jednak raczej zagrożenie dla UE i dla poparcia obywateli dla Europy - powiedział szef klubu parlamentarnego CDU/CSU Volker Kauder. ",
+    "reference_link": "http://wiadomosci.dziennik.pl/swiat/artykuly/564399,schulz-chce-by-do-2025-roku-ue-przeksztalcila-sie-w-stany-zjednoczone-europy-chadecy-mowia-nie.html",
+    "reference_link_title": "Link do wypowiedzi Kaudera",
+    "create_date": "2018-02-05T12:33:10.043Z"
+  },
+  {
+    "id": 1,
+    "url": "file:///Users/Kasia/Desktop/study-materials/matinschulz/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[1]/b[1]",
+        "startOffset": 140,
+        "end": "/div[1]/p[1]/b[1]",
+        "endOffset": 167
+      }
+    ],
+    "quote": "swojej nienawiści do Polski",
+    "priority": "NORMAL",
+    "comment": "\nSam Schulz nie potwierdza swojej niechęci do Polski: \"Jestem wielbicielem Polski, uważam ją za kamień węgielny Europy i jestem przekonany, że potrzebujemy jej w centrum działań unijnych. Odróżniajmy prawo do krytycznych uwag na temat działań partii i rządu od nieodzownego szacunku dla suwerenności kraju i narodu.\"",
+    "reference_link": "http://wyborcza.pl/1,76842,19478577,pis-to-nie-caly-narod-polski.html",
+    "reference_link_title": "Wywiad dla Gazety Wyborczej",
+    "create_date": "2018-02-05T12:33:10.043Z"
+  },
+  {
+    "id": 2,
+    "url": "file:///Users/Kasia/Desktop/study-materials/matinschulz/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[1]/b[1]",
+        "startOffset": 243,
+        "end": "/div[1]/p[1]/b[1]",
+        "endOffset": 293
+      }
+    ],
+    "quote": "Stany Zjednoczone Europy mają powstać do 2025 roku",
+    "priority": "WARNING",
+    "comment": "Schulz przypomniał, że SPD przed blisko stu laty wysunęła po raz pierwszy propozycję utworzenia Stanów Zjednoczonych Europy. Szef SPD zaproponował, by w stulecie (2025r.) programu zrealizować ten postulat.",
+    "reference_link": "https://www.polskieradio.pl/5/3/Artykul/1950449,Niemcy-Schulz-apeluje-do-SPD-o-zgode-na-rozmowy-o-koalicji",
+    "reference_link_title": "Polskie Radio na podst. PAP",
+    "create_date": "2018-02-05T23:33:10.043Z"
+  },
+  {
+    "id": 3,
+    "url": "file:///Users/Kasia/Desktop/study-materials/matinschulz/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[2]",
+        "startOffset": 51,
+        "end": "/div[1]/p[2]",
+        "endOffset": 72
+      }
+    ],
+    "quote": "opowiedział o planach",
+    "priority": "NORMAL",
+    "comment": "Chodzi o przemówienie podczas zjazdu partii SPD w Berlinie, 7 grudnia 2017.",
+    "reference_link": "https://www.polskieradio.pl/5/3/Artykul/1950449,Niemcy-Schulz-apeluje-do-SPD-o-zgode-na-rozmowy-o-koalicji",
+    "reference_link_title": "polskie radio na podstawie PAP",
+    "create_date": "2018-02-01T12:33:10.043Z"
+  },
+  {
+    "id": 4,
+    "url": "file:///Users/Kasia/Desktop/study-materials/matinschulz/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[2]",
+        "startOffset": 178,
+        "end": "/div[1]/p[2]",
+        "endOffset": 276
+      }
+    ],
+    "quote": "Gdy powstanie ten dokument, zostanie on przedstawiony wszystkim członkom obecnej Unii Europejskiej",
+    "priority": "NORMAL",
+    "comment": "Zdaniem Schulza traktat powinien zostać wypracowany przez konwent, w którym uczestniczyć powinny \"społeczeństwa obywatelskie i narody\".",
+    "reference_link": "http://www.polsatnews.pl/wiadomosc/2017-12-07/popatrzcie-na-to-co-dzieje-sie-w-polsce-martin-schulz-przestrzega-przed-oslabianiem-europy/",
+    "reference_link_title": "Polsat news na podst. PAP",
+    "create_date": "2018-02-01T12:33:10.043Z"
+  },
+  {
+    "id": 5,
+    "url": "file:///Users/Kasia/Desktop/study-materials/matinschulz/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[2]",
+        "startOffset": 523,
+        "end": "/div[1]/p[2]",
+        "endOffset": 557
+      }
+    ],
+    "quote": "zostaną po prostu wyrzucone z Unii",
+    "priority": "WARNING",
+    "comment": "\"Kraje, które nie przyjmą takiego traktatu, powinny opuścić Wspólnotę\" - Schulz",
+    "reference_link": "https://www.polskieradio.pl/5/3/Artykul/1950449,Niemcy-Schulz-apeluje-do-SPD-o-zgode-na-rozmowy-o-koalicji",
+    "reference_link_title": "Polskie Radio na podstawie PAP",
+    "create_date": "2018-02-01T12:33:10.043Z"
+  },
+  {
+    "id": 6,
+    "url": "file:///Users/Kasia/Desktop/study-materials/matinschulz/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/cite[1]",
+        "startOffset": 156,
+        "end": "/div[1]/cite[1]",
+        "endOffset": 186
+      }
+    ],
+    "quote": "Martin Schulz (@MartinSchulz)",
+    "priority": "NORMAL",
+    "comment": "Link do tweeta",
+    "reference_link": "https://twitter.com/MartinSchulz/status/938748359720013824",
+    "reference_link_title": "Twitter",
+    "create_date": "2018-02-01T12:33:10.043Z"
+  },
+  {
+    "id": 7,
+    "url": "file:///Users/Kasia/Desktop/study-materials/matinschulz/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[3]",
+        "startOffset": 103,
+        "end": "/div[1]/p[3]",
+        "endOffset": 115
+      }
+    ],
+    "quote": "Bibliotekarz",
+    "priority": "WARNING",
+    "comment": "Martin Schulz ma wykształcenie zawodowe księgarza. W latach 1977–82 współpracował z różnymi księgarniami i domami wydawniczymi. Od 1982 do 1994 był właścicielem księgarni.",
+    "reference_link": "https://pl.wikipedia.org/wiki/Martin_Schulz",
+    "reference_link_title": "WIKIPEDIA",
+    "create_date": "2018-02-05T23:33:10.043Z"
+  },
+  {
+    "id": 8,
+    "url": "file:///Users/Kasia/Desktop/study-materials/matinschulz/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[3]",
+        "startOffset": 295,
+        "end": "/div[1]/p[3]",
+        "endOffset": 320
+      }
+    ],
+    "quote": "Schulz dał do zrozumienia",
+    "priority": "WARNING",
+    "comment": "Chodzi najpewniej o wypowiedź: \"Popatrzcie na to, co dzieje się w Polsce: nasze wspólne wartości są tam systematyczne podkopywane, a Unia (Europejska - red.) jest niezdolna do przeciwstawienia się temu. Popatrzcie na Węgry. Ten kraj nie tylko odmówił nam solidarności w kryzysie uchodźczym, ale zawiera też daleko idące umowy z Chinami i oddala się coraz bardziej od europejskiej wspólnoty\" i dalej:\n\"Jeśli nie zmienimy kursu, jeśli nie wzmocnimy Europy konkretnymi działaniami, to te siły zwyciężą. Musimy zorientować się, jak znaleźć rozwiązania prowadzące do innej, lepszej Europy\"",
+    "reference_link": "https://www.polskieradio.pl/5/3/Artykul/1950449,Niemcy-Schulz-apeluje-do-SPD-o-zgode-na-rozmowy-o-koalicji",
+    "reference_link_title": "polskie radio za PAP",
+    "create_date": "2018-02-01T12:33:10.043Z"
+  },
+  {
+    "id": 9,
+    "url": "file:///Users/Kasia/Desktop/study-materials/matinschulz/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[4]",
+        "startOffset": 18,
+        "end": "/div[1]/p[4]",
+        "endOffset": 35
+      }
+    ],
+    "quote": "komunistycznej UE",
+    "priority": "WARNING",
+    "comment": "Ustrój UE nie jest oficjalnie komunistyczny w dosłownym sensie. Poniżej artykuł z rozważaniem, w jakim sensie UE może być komunistyczna.",
+    "reference_link": "http://salwowski.net/2017/11/07/czy-unia-europejska-jest-komunistyczna/",
+    "reference_link_title": "Artykuł na blogu",
+    "create_date": "2018-02-01T12:33:10.043Z"
+  },
+  {
+    "id": 10,
+    "url": "file:///Users/Kasia/Desktop/study-materials/matinschulz/index.html",
+    "ranges": [
+      {
+        "start": "/div[1]/p[5]",
+        "startOffset": 25,
+        "end": "/div[1]/p[5]",
+        "endOffset": 43
+      }
+    ],
+    "quote": "mają przyjąć formę",
+    "priority": "WARNING",
+    "comment": "Podobną formę.\n",
+    "reference_link": "https://pl.wikipedia.org/wiki/Stany_Zjednoczone_Europy",
+    "reference_link_title": "Wikipedia",
+    "create_date": "2018-02-05T23:33:10.043Z"
   }
 ]

@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "alwaysStrict": true,
+    "module": "es6",
+    "target": "es2015",
+    "jsx": "react",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "typeRoots": [
+      "./@types",
+      "./node_modules/@types"
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "*": [
+         "*",
+         "src/*"
+      ]
+    },
+    "noImplicitThis": true,
+    "noUnusedLocals": false
+  },
+  "include": [
+    "./@types/custom.d.ts",
+    "./src/**/*"
+  ]
+}

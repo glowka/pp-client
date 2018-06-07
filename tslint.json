@@ -1,0 +1,35 @@
+{
+  "defaultSeverity": "warning",
+  "extends": [
+    "tslint:recommended",
+    "tslint-react",
+    "tslint-eslint-rules"
+  ],
+  "rules": {
+    "arrow-parens": false,
+    "arrow-return-shorthand": true,
+    "interface-name": false,
+    "jsx-no-multiline-js": false,
+    "max-classes-per-file": [
+      true,
+      2
+    ],
+    "member-access": [
+      true, "no-public"
+    ],
+    "no-console": false,
+    "no-unnecessary-callback-wrapper": true,
+    "object-literal-sort-keys": false,
+    "object-curly-spacing": true,
+    "ordered-imports": false,
+    "ter-arrow-parens": [true, "as-needed", { "requireForBlockBody": true }],
+    "trailing-comma": [
+      true,
+      {
+        "singleline": "never",
+        "multiline": "always"
+      }
+    ],
+    "quotemark": [true, "single", "jsx-double"]
+  }
+}
